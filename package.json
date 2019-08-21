@@ -1,0 +1,25 @@
+{
+  "name": "react-native-photo-grid-flatlist",
+  "version": "1.0.0",
+  "description": "React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.",
+  "main": "PhotoGrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:thisisirfan/react-native-photo-grid-flatlist.git"
+  },
+  "keywords": [
+    "react-native",
+    "photo",
+    "grid",
+    "square"
+  ],
+  "author": "rizwanilahi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisisirfan/react-native-photo-grid-flatlist/issues"
+  },
+  "homepage": "https://github.com/thisisirfan/react-native-photo-grid-flatlist#readme"
+}
